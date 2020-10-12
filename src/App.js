@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import Row from './Row.js';
 import requests from './requests.js';
+import Banner from './Banner.js'
 
 function App() {
   return (
